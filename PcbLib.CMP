@@ -1,0 +1,15 @@
+Component   : DIP-6
+PCB Library : PcbLib.PcbLib
+Date        : 2/22/2023
+Time        : 8:11:20 AM
+
+
+
+Dimension : 9.652 x 8.331 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 6          0        0       0        0
+ Top Overlay                 0          9        0       2        0
+--------------------------------------------------------------------
+ Total                       6          9        0       2        0
